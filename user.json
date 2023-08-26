@@ -1,0 +1,31 @@
+[{
+	"username": "Om Kansara",
+	"password": "123456789",
+	"email": "user1@example.com",
+	"role": "user"
+}, {
+	"username": "A",
+	"password": "hashed_password",
+	"email": "user2@example.com",
+	"role": "user"
+}, {
+	"username": "B",
+	"password": "hashed_password",
+	"email": "user3@example.com",
+	"role": "user"
+}, {
+	"username": "C",
+	"password": "hashed_password",
+	"email": "user4@example.com",
+	"role": "user"
+}, {
+	"username": "D",
+	"password": "hashed_password",
+	"email": "user5@example.com",
+	"role": "user"
+}, {
+	"username": "E",
+	"password": "hashed_password",
+	"email": "user6@example.com",
+	"role": "user"
+}]
